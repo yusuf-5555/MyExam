@@ -1,0 +1,2 @@
+﻿var math = new Math();
+

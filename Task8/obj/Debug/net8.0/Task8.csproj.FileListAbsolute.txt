@@ -1,0 +1,14 @@
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\bin\Debug\net8.0\Task8.exe
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\bin\Debug\net8.0\Task8.deps.json
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\bin\Debug\net8.0\Task8.runtimeconfig.json
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\bin\Debug\net8.0\Task8.dll
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\bin\Debug\net8.0\Task8.pdb
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\Task8.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\Task8.AssemblyInfo.cs
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\Task8.dll
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\refint\Task8.dll
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\Task8.pdb
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\Task8.genruntimeconfig.cache
+C:\Users\Yusuf\Desktop\C# Course\week2\Exam\Task8\obj\Debug\net8.0\ref\Task8.dll
